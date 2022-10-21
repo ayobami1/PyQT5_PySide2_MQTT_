@@ -1,0 +1,15 @@
+###############################################################
+## 1. You need to make sure you have Python3 and Pip install on your machine
+## 2. Go To your Ubutu termial and goto the folder directory where you unzip the folder
+## 3. Type this command on your terminal 'pip install -r requirement.txt'
+## 4. Then this ' python3 thermo.py'
+## 5. Congratulation your application is ready
+## 6. You don't need GPIO pin  set up in here
+## 7. This GUI will serves as MQQT Client to subcribe and publish
+################################################################
+
+
+pySide2extn
+pyside2
+pyqt5
+qdarkstyle
